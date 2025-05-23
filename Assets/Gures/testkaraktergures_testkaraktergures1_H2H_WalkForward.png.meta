@@ -1,0 +1,1653 @@
+fileFormatVersion: 2
+guid: 2298ee34afdc89e4b8fabbe5c881f492
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6439622401897920643
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_0
+  - first:
+      213: -3712703470507231253
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_1
+  - first:
+      213: -4312847382406616144
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_2
+  - first:
+      213: 7270454034277982852
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_3
+  - first:
+      213: 2284290447986957540
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_4
+  - first:
+      213: -8738434197152545106
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_5
+  - first:
+      213: 7726658896678773151
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_6
+  - first:
+      213: -2303467629069990852
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_7
+  - first:
+      213: -3749022639324512509
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_8
+  - first:
+      213: 1767631973791042693
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_9
+  - first:
+      213: -9092441106650028804
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_10
+  - first:
+      213: 6691861671987340331
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_11
+  - first:
+      213: 6161184962189081097
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_12
+  - first:
+      213: -3404020270454568587
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_13
+  - first:
+      213: -5177779674868992678
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_14
+  - first:
+      213: -699480030735328482
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_15
+  - first:
+      213: -6813241190776538508
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_16
+  - first:
+      213: 8478143716137789648
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_17
+  - first:
+      213: -8219464877939319992
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_18
+  - first:
+      213: 5708720342253645183
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_19
+  - first:
+      213: -2870596425955337513
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_20
+  - first:
+      213: 7568717934475943802
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_21
+  - first:
+      213: 7100297743239449140
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_22
+  - first:
+      213: 7740833138865137093
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_23
+  - first:
+      213: 2848715120442835399
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_24
+  - first:
+      213: -4715432741223517185
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_25
+  - first:
+      213: 6085647959701459229
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_26
+  - first:
+      213: -9107138599929097679
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_27
+  - first:
+      213: 485271121622126912
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_28
+  - first:
+      213: -5769301683865721077
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_29
+  - first:
+      213: -2544202218070521240
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_30
+  - first:
+      213: -5954284875495474068
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_31
+  - first:
+      213: 3198512107547621170
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_32
+  - first:
+      213: -5040843359912354327
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_33
+  - first:
+      213: -4588120264397166266
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_34
+  - first:
+      213: 1127921445788375976
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_35
+  - first:
+      213: 4183897377268429416
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_36
+  - first:
+      213: -4087093117371484638
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_37
+  - first:
+      213: -6400201369337872012
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_38
+  - first:
+      213: 7117527332405094486
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_39
+  - first:
+      213: 8948658593958799656
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_40
+  - first:
+      213: -4134648300798186696
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_41
+  - first:
+      213: 257174243603824220
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_42
+  - first:
+      213: 2640105769778759188
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_43
+  - first:
+      213: -6169181217159797001
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_44
+  - first:
+      213: 3529026174910390519
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_45
+  - first:
+      213: -8695948430085086170
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_46
+  - first:
+      213: -322230954145541835
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_47
+  - first:
+      213: -8691143077720390772
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_48
+  - first:
+      213: 8957593464678208470
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_49
+  - first:
+      213: 4429282482947618602
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_50
+  - first:
+      213: 1920643514469826255
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_51
+  - first:
+      213: -4177330904664681708
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_52
+  - first:
+      213: -7593807946972815036
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_53
+  - first:
+      213: 5624311782406145167
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_54
+  - first:
+      213: 6079664339938356145
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_55
+  - first:
+      213: -2968440212647990109
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_56
+  - first:
+      213: 541260421511321819
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_57
+  - first:
+      213: -8717450381993394162
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_58
+  - first:
+      213: 9190339868725228085
+    second: testkaraktergures_testkaraktergures1_H2H_WalkForward_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d770a374b8dd1a6a0800000000000000
+      internalID: -6439622401897920643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be77e044dd3d97cc0800000000000000
+      internalID: -3712703470507231253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb2e29f720b524c0800000000000000
+      internalID: -4312847382406616144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482e1f47c67d5e460800000000000000
+      internalID: 7270454034277982852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec941c4f0e63bf10800000000000000
+      internalID: 2284290447986957540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6c8995568dab680800000000000000
+      internalID: -8738434197152545106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_6
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f916625345b9a3b60800000000000000
+      internalID: 7726658896678773151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_7
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c340ca945607800e0800000000000000
+      internalID: -2303467629069990852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_8
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f3a20d5cbc8fbc0800000000000000
+      internalID: -3749022639324512509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_9
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c00733ae3e78810800000000000000
+      internalID: 1767631973791042693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_10
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf427f0ccf821d180800000000000000
+      internalID: -9092441106650028804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_11
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b246bd45cb44edc50800000000000000
+      internalID: 6691861671987340331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_12
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a32ca641de08550800000000000000
+      internalID: 6161184962189081097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579835b699d72c0d0800000000000000
+      internalID: -3404020270454568587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55323a91d4d428b0800000000000000
+      internalID: -5177779674868992678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b9a883e92fa46f0800000000000000
+      internalID: -699480030735328482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_16
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a74be2c318271a0800000000000000
+      internalID: -6813241190776538508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d86a1b6aca68a570800000000000000
+      internalID: 8478143716137789648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_18
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b90aafd389eed80800000000000000
+      internalID: -8219464877939319992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_19
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d231ab7e2793f40800000000000000
+      internalID: 5708720342253645183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_20
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da1d6972c79928d0800000000000000
+      internalID: -2870596425955337513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_21
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f11915cdc790960800000000000000
+      internalID: 7568717934475943802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_22
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a8b41bd23598260800000000000000
+      internalID: 7100297743239449140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_23
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5e0a32ab6fc6b60800000000000000
+      internalID: 7740833138865137093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_24
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c187441f4ba88720800000000000000
+      internalID: 2848715120442835399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_25
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff33021c7ea6f8eb0800000000000000
+      internalID: -4715432741223517185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1116128390947450800000000000000
+      internalID: 6085647959701459229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1325afee1b1fc9180800000000000000
+      internalID: -9107138599929097679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041da0893870cb600800000000000000
+      internalID: 485271121622126912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07ee138fa25fefa0800000000000000
+      internalID: -5769301683865721077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_30
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a452bff8d21bcd0800000000000000
+      internalID: -2544202218070521240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_31
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c7c90f3712e5da0800000000000000
+      internalID: -5954284875495474068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_32
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237792cb0d5636c20800000000000000
+      internalID: 3198512107547621170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_33
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed9904fba35b0ab0800000000000000
+      internalID: -5040843359912354327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_34
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649e5ddade8b350c0800000000000000
+      internalID: -4588120264397166266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_35
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abd2c6349e27af00800000000000000
+      internalID: 1127921445788375976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_36
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862f5c45f70301a30800000000000000
+      internalID: 4183897377268429416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_37
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226f02fc67ab747c0800000000000000
+      internalID: -4087093117371484638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_38
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471c5a9a3caed27a0800000000000000
+      internalID: -6400201369337872012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658a327066986c260800000000000000
+      internalID: 7117527332405094486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_40
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82929254495003c70800000000000000
+      internalID: 8948658593958799656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_41
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b60c7d647ce96c0800000000000000
+      internalID: -4134648300798186696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_42
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5eb26bac9aa19300800000000000000
+      internalID: 257174243603824220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_43
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4164f11b53a83a420800000000000000
+      internalID: 2640105769778759188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_44
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6ad246e5aa26aa0800000000000000
+      internalID: -6169181217159797001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_45
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0e696cb9e99f030800000000000000
+      internalID: 3529026174910390519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_46
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624a9a7d9f8c15780800000000000000
+      internalID: -8695948430085086170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_47
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531158a87a4378bf0800000000000000
+      internalID: -322230954145541835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_48
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8381602b6bd26780800000000000000
+      internalID: -8691143077720390772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_49
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d35188fbc3cf4c70800000000000000
+      internalID: 8957593464678208470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_50
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27f3fd63f8f77d30800000000000000
+      internalID: 4429282482947618602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_51
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fceb124b91f77aa10800000000000000
+      internalID: 1920643514469826255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4135336bca32706c0800000000000000
+      internalID: -4177330904664681708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441a52ce7ef5d9690800000000000000
+      internalID: -7593807946972815036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_54
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84cc5864c19d0e40800000000000000
+      internalID: 5624311782406145167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_55
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bba2a7718e4f5450800000000000000
+      internalID: 6079664339938356145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_56
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aca124aa5bfdc6d0800000000000000
+      internalID: -2968440212647990109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_57
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd819235c71f28700800000000000000
+      internalID: 541260421511321819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_58
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00c03a8015650780800000000000000
+      internalID: -8717450381993394162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_H2H_WalkForward_59
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5323a780b65aa8f70800000000000000
+      internalID: 9190339868725228085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 44fa4781f946f354ab20a006cce82697
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_0: -6439622401897920643
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_1: -3712703470507231253
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_10: -9092441106650028804
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_11: 6691861671987340331
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_12: 6161184962189081097
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_13: -3404020270454568587
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_14: -5177779674868992678
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_15: -699480030735328482
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_16: -6813241190776538508
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_17: 8478143716137789648
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_18: -8219464877939319992
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_19: 5708720342253645183
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_2: -4312847382406616144
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_20: -2870596425955337513
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_21: 7568717934475943802
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_22: 7100297743239449140
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_23: 7740833138865137093
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_24: 2848715120442835399
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_25: -4715432741223517185
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_26: 6085647959701459229
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_27: -9107138599929097679
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_28: 485271121622126912
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_29: -5769301683865721077
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_3: 7270454034277982852
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_30: -2544202218070521240
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_31: -5954284875495474068
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_32: 3198512107547621170
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_33: -5040843359912354327
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_34: -4588120264397166266
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_35: 1127921445788375976
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_36: 4183897377268429416
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_37: -4087093117371484638
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_38: -6400201369337872012
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_39: 7117527332405094486
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_4: 2284290447986957540
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_40: 8948658593958799656
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_41: -4134648300798186696
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_42: 257174243603824220
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_43: 2640105769778759188
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_44: -6169181217159797001
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_45: 3529026174910390519
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_46: -8695948430085086170
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_47: -322230954145541835
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_48: -8691143077720390772
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_49: 8957593464678208470
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_5: -8738434197152545106
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_50: 4429282482947618602
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_51: 1920643514469826255
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_52: -4177330904664681708
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_53: -7593807946972815036
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_54: 5624311782406145167
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_55: 6079664339938356145
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_56: -2968440212647990109
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_57: 541260421511321819
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_58: -8717450381993394162
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_59: 9190339868725228085
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_6: 7726658896678773151
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_7: -2303467629069990852
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_8: -3749022639324512509
+      testkaraktergures_testkaraktergures1_H2H_WalkForward_9: 1767631973791042693
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

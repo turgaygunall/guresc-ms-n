@@ -1,0 +1,4222 @@
+fileFormatVersion: 2
+guid: 8af67f091ad111146827767fc6d81f54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6654976619229779217
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_0
+  - first:
+      213: -7791234239712480318
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_1
+  - first:
+      213: 4197585301840504728
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_2
+  - first:
+      213: -4797741682433719052
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_3
+  - first:
+      213: 4501287844075025681
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_4
+  - first:
+      213: 252197631915667969
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_5
+  - first:
+      213: 3320811044711133606
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_6
+  - first:
+      213: -2420556999554225914
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_7
+  - first:
+      213: -238259199295399331
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_8
+  - first:
+      213: 8679310537655045687
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_9
+  - first:
+      213: 298700692046009312
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_10
+  - first:
+      213: -6197259342456509013
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_11
+  - first:
+      213: -8403642919222181734
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_12
+  - first:
+      213: 6187854555218271479
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_13
+  - first:
+      213: -4315775795445914441
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_14
+  - first:
+      213: -668170445188323986
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_15
+  - first:
+      213: 2234610732568343850
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_16
+  - first:
+      213: -8563881591362667688
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_17
+  - first:
+      213: -6676739378450473897
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_18
+  - first:
+      213: 1865118826655520735
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_19
+  - first:
+      213: 1825935120461531605
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_20
+  - first:
+      213: 6594347936198756129
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_21
+  - first:
+      213: 1152991582737745394
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_22
+  - first:
+      213: -2127006605325080947
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_23
+  - first:
+      213: 3677686158176365409
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_24
+  - first:
+      213: -8307039068662150846
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_25
+  - first:
+      213: -8990392018043070057
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_26
+  - first:
+      213: -2604892164228271873
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_27
+  - first:
+      213: -4067002963824011973
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_28
+  - first:
+      213: -584621944958700924
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_29
+  - first:
+      213: -464757926019109297
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_30
+  - first:
+      213: -493734539664798500
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_31
+  - first:
+      213: 7371296210108581493
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_32
+  - first:
+      213: -730480730409434842
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_33
+  - first:
+      213: -3642214976295422990
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_34
+  - first:
+      213: 8579860003073276597
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_35
+  - first:
+      213: 8068208714678463438
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_36
+  - first:
+      213: 7855387417570338005
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_37
+  - first:
+      213: 7385145453424175830
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_38
+  - first:
+      213: 77451521009122018
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_39
+  - first:
+      213: 8942487203494400637
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_40
+  - first:
+      213: 365548392067519215
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_41
+  - first:
+      213: -2741522199666348291
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_42
+  - first:
+      213: 9216160191334096174
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_43
+  - first:
+      213: 1891596318581803000
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_44
+  - first:
+      213: -704060140776736909
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_45
+  - first:
+      213: 2516409533277721322
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_46
+  - first:
+      213: 6120184042915244612
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_47
+  - first:
+      213: 6722238868418174484
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_48
+  - first:
+      213: -1574990024256773657
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_49
+  - first:
+      213: -4037910667579619122
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_50
+  - first:
+      213: 8377515606007612886
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_51
+  - first:
+      213: 459102632934159111
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_52
+  - first:
+      213: -2503379906319766299
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_53
+  - first:
+      213: 9160220241205398487
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_54
+  - first:
+      213: 8531677682466620103
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_55
+  - first:
+      213: 8664286659275571874
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_56
+  - first:
+      213: -3471933983887755711
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_57
+  - first:
+      213: 18862785035900843
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_58
+  - first:
+      213: -3812631753438144061
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_59
+  - first:
+      213: 910255935167143260
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_60
+  - first:
+      213: -3097154129938176188
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_61
+  - first:
+      213: 4451447349570241844
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_62
+  - first:
+      213: 2542289464067535879
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_63
+  - first:
+      213: -1480981959226877283
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_64
+  - first:
+      213: -5088719776535763792
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_65
+  - first:
+      213: 3200141647843808429
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_66
+  - first:
+      213: -5973759284703489526
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_67
+  - first:
+      213: -5091966462557531213
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_68
+  - first:
+      213: -894924459393695797
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_69
+  - first:
+      213: -2096328167260590692
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_70
+  - first:
+      213: 2823191362893058891
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_71
+  - first:
+      213: -2601865784206526205
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_72
+  - first:
+      213: 797331713804232505
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_73
+  - first:
+      213: 61960609225714774
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_74
+  - first:
+      213: 2160848699485221979
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_75
+  - first:
+      213: 2195521681651215639
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_76
+  - first:
+      213: 2488414586735567978
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_77
+  - first:
+      213: -6447800902954144909
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_78
+  - first:
+      213: 3934866918600341256
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_79
+  - first:
+      213: 7261797853746764906
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_80
+  - first:
+      213: -2324670565995159238
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_81
+  - first:
+      213: -954262134810982623
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_82
+  - first:
+      213: -8400841352018200004
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_83
+  - first:
+      213: 8341187063973069952
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_84
+  - first:
+      213: 8104678682639241466
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_85
+  - first:
+      213: 91100695251488579
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_86
+  - first:
+      213: -5857108653429979546
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_87
+  - first:
+      213: 3523736734680805980
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_88
+  - first:
+      213: -8102067141486891588
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_89
+  - first:
+      213: -8130820027779416040
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_90
+  - first:
+      213: -1862851672944631041
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_91
+  - first:
+      213: 1414078090551920222
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_92
+  - first:
+      213: -8483328573263678884
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_93
+  - first:
+      213: 872057860715789607
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_94
+  - first:
+      213: 3936170935516136138
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_95
+  - first:
+      213: -1693440376055376445
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_96
+  - first:
+      213: -2396374484148280361
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_97
+  - first:
+      213: -9187139106625030126
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_98
+  - first:
+      213: -3492512886613393067
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_99
+  - first:
+      213: 4759444157557393548
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_100
+  - first:
+      213: -2261508692364274228
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_101
+  - first:
+      213: 3042521822542357811
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_102
+  - first:
+      213: 6339718750997219843
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_103
+  - first:
+      213: 8596886046967674493
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_104
+  - first:
+      213: -8727093336586500344
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_105
+  - first:
+      213: -3752442536899228516
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_106
+  - first:
+      213: -3297760968834103315
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_107
+  - first:
+      213: 7647193355545986826
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_108
+  - first:
+      213: 3993751029464296700
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_109
+  - first:
+      213: -116592330380202320
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_110
+  - first:
+      213: -8973440127141425164
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_111
+  - first:
+      213: -4713903878652029560
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_112
+  - first:
+      213: 8498216230996989302
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_113
+  - first:
+      213: -7052479874621068348
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_114
+  - first:
+      213: -430926314053321708
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_115
+  - first:
+      213: 6326252678545431104
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_116
+  - first:
+      213: 8253310682696907360
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_117
+  - first:
+      213: -2894704007435111128
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_118
+  - first:
+      213: 1766426998610549516
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_119
+  - first:
+      213: 1063680010294708073
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_120
+  - first:
+      213: -6832853850483723364
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_121
+  - first:
+      213: 753351147388574688
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_122
+  - first:
+      213: 7744526993828157012
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_123
+  - first:
+      213: -7101478061987632672
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_124
+  - first:
+      213: 5932520642084841142
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_125
+  - first:
+      213: -4183641511205862685
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_126
+  - first:
+      213: -465173143918049663
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_127
+  - first:
+      213: -6854674999132327920
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_128
+  - first:
+      213: 5362347865209414515
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_129
+  - first:
+      213: 974277980475281205
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_130
+  - first:
+      213: -8056494000200633746
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_131
+  - first:
+      213: -4976482159715024850
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_132
+  - first:
+      213: 6264324314520869952
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_133
+  - first:
+      213: -5045710497598274027
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_134
+  - first:
+      213: 2041250747946112351
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_135
+  - first:
+      213: 294969077080499926
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_136
+  - first:
+      213: 6623693578411207525
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_137
+  - first:
+      213: -2530842041260386278
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_138
+  - first:
+      213: -823660698410388457
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_139
+  - first:
+      213: -1349216750908838584
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_140
+  - first:
+      213: -3101479897674502505
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_141
+  - first:
+      213: 6222766408301214980
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_142
+  - first:
+      213: 9084283314724854340
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_143
+  - first:
+      213: 5937383561944289934
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_144
+  - first:
+      213: -5253133190261845930
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_145
+  - first:
+      213: 1143611175834041684
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_146
+  - first:
+      213: -949602728688217215
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_147
+  - first:
+      213: -1353189911647407903
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_148
+  - first:
+      213: -3806410929007523630
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_149
+  - first:
+      213: 591623488336388986
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_150
+  - first:
+      213: -4145138537292321863
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_151
+  - first:
+      213: -4721466798057974168
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_152
+  - first:
+      213: -6952852363915968030
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_153
+  - first:
+      213: 7137182843526757923
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_154
+  - first:
+      213: 8582221279774580913
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_155
+  - first:
+      213: 5629090424635043597
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_156
+  - first:
+      213: -4780450356986908060
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_157
+  - first:
+      213: 2178336308433759940
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_158
+  - first:
+      213: -4062306242939829439
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_159
+  - first:
+      213: 7834737391549728383
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_160
+  - first:
+      213: 437075407095064318
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_161
+  - first:
+      213: 2752316385216927270
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_162
+  - first:
+      213: -3120039054076738425
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_163
+  - first:
+      213: -3779011629519267264
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_164
+  - first:
+      213: 7966239425183971558
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_165
+  - first:
+      213: 5862765680819390873
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_166
+  - first:
+      213: 9163415196270546635
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_167
+  - first:
+      213: 1477191243893524976
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_168
+  - first:
+      213: -3946019009227659319
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_169
+  - first:
+      213: -8907505087438971156
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_170
+  - first:
+      213: 5399146115671764450
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_171
+  - first:
+      213: -8741370389294016555
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_172
+  - first:
+      213: -5105127512658306636
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_173
+  - first:
+      213: 8068052792182610952
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_174
+  - first:
+      213: 4590210804744678010
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_175
+  - first:
+      213: -5034179239550657769
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_176
+  - first:
+      213: 351723676933816039
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_177
+  - first:
+      213: -6813648233515066381
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_178
+  - first:
+      213: 6141309865447468219
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_179
+  - first:
+      213: -7531500726217468342
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_180
+  - first:
+      213: 1976499111288170528
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_181
+  - first:
+      213: 5315946395570543261
+    second: testkaraktergures_testkaraktergures1_basic_headlock_1p_182
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11598b1c9f93b5c50800000000000000
+      internalID: 6654976619229779217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 3600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3b31c1db9ffd390800000000000000
+      internalID: -7791234239712480318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897aa9e9791d04a30800000000000000
+      internalID: 4197585301840504728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 3600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4047efb5ffa6db0800000000000000
+      internalID: -4797741682433719052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11530e10279c77e30800000000000000
+      internalID: 4501287844075025681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1023787f86cff7300800000000000000
+      internalID: 252197631915667969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_6
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1733efc04e51e20800000000000000
+      internalID: 3320811044711133606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_7
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6092cfacb34786ed0800000000000000
+      internalID: -2420556999554225914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_8
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a5785458881bcf0800000000000000
+      internalID: -238259199295399331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_9
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 3600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ecb34f2fa137870800000000000000
+      internalID: 8679310537655045687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_10
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3d09362b2352400800000000000000
+      internalID: 298700692046009312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_11
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 3600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bada8e76679eef9a0800000000000000
+      internalID: -6197259342456509013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_12
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9009841a43406b80800000000000000
+      internalID: -8403642919222181734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc519deeecafd550800000000000000
+      internalID: 6187854555218271479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 3300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4a73ea7c84b14c0800000000000000
+      internalID: -4315775795445914441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65a22d258e2ab6f0800000000000000
+      internalID: -668170445188323986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_16
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 3300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25f20e2f9ee20f10800000000000000
+      internalID: 2234610732568343850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b3258e01bf62980800000000000000
+      internalID: -8563881591362667688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_18
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cd89109e47753a0800000000000000
+      internalID: -6676739378450473897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_19
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd712b6e0bb32e910800000000000000
+      internalID: 1865118826655520735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_20
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9050e5156075910800000000000000
+      internalID: 1825935120461531605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_21
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12705767284d38b50800000000000000
+      internalID: 6594347936198756129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_22
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 3300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f549165cbf300010800000000000000
+      internalID: 1152991582737745394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_23
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8660b603ca5b72e0800000000000000
+      internalID: -2127006605325080947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_24
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 3300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b297d5314c90330800000000000000
+      internalID: 3677686158176365409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_25
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249c919caf777bc80800000000000000
+      internalID: -8307039068662150846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799190db716bb3380800000000000000
+      internalID: -8990392018043070057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 3000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0b9f0c06099dbd0800000000000000
+      internalID: -2604892164228271873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b351fc03a5a1f87c0800000000000000
+      internalID: -4067002963824011973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 3000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482b6d2407103e7f0800000000000000
+      internalID: -584621944958700924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_30
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e6511f029dc89f0800000000000000
+      internalID: -464757926019109297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_31
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc40f55d07e529f0800000000000000
+      internalID: -493734539664798500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_32
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57684b929da1c4660800000000000000
+      internalID: 7371296210108581493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_33
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6218dac55afccd5f0800000000000000
+      internalID: -730480730409434842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_34
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3bd4eb6c0447dc0800000000000000
+      internalID: -3642214976295422990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_35
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 3000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bab3c9f639c11770800000000000000
+      internalID: 8579860003073276597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_36
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbee1c241908ff60800000000000000
+      internalID: 8068208714678463438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_37
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 3000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d46a559c31f30d60800000000000000
+      internalID: 7855387417570338005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_38
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3000
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da60f569ae4d7660800000000000000
+      internalID: 7385145453424175830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2700
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaff0d7fb9231100800000000000000
+      internalID: 77451521009122018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_40
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2700
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7292c47bb81a1c70800000000000000
+      internalID: 8942487203494400637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_41
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2700
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe256696350b21500800000000000000
+      internalID: 365548392067519215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_42
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2700
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe2a09a51824f9d0800000000000000
+      internalID: -2741522199666348291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_43
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2700
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d909d5dd066ef70800000000000000
+      internalID: 9216160191334096174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_44
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2700
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7418364dc404a10800000000000000
+      internalID: 1891596318581803000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_45
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2700
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377bd70480daa36f0800000000000000
+      internalID: -704060140776736909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_46
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2700
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2dc6453251ce220800000000000000
+      internalID: 2516409533277721322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_47
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2700
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a2afdf5f24fe450800000000000000
+      internalID: 6120184042915244612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_48
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2700
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e936782a03a4d50800000000000000
+      internalID: 6722238868418174484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_49
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2700
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e12467eae2842ae0800000000000000
+      internalID: -1574990024256773657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_50
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 2700
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8082044a576f7c0800000000000000
+      internalID: -4037910667579619122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_51
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2700
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d50064ce0ae24470800000000000000
+      internalID: 8377515606007612886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703bc77896f0f5600800000000000000
+      internalID: 459102632934159111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2400
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eca5f91d35324dd0800000000000000
+      internalID: -2503379906319766299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_54
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2400
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db0465c6c3af1f70800000000000000
+      internalID: 9160220241205398487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_55
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2400
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c20d8146ab966670800000000000000
+      internalID: 8531677682466620103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_56
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2400
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2c64eafcabd3870800000000000000
+      internalID: 8664286659275571874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_57
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2400
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14673cecf6631dfc0800000000000000
+      internalID: -3471933983887755711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_58
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2400
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba71a816a93034000800000000000000
+      internalID: 18862785035900843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_59
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2400
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9d1f4de9fc61bc0800000000000000
+      internalID: -3812631753438144061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_60
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2400
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d145643f0e1ac00800000000000000
+      internalID: 910255935167143260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_61
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2400
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447a66e6ab2b405d0800000000000000
+      internalID: -3097154129938176188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_62
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2400
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4350d7797c7b6cd30800000000000000
+      internalID: 4451447349570241844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_63
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 2400
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704b6f54cc6084320800000000000000
+      internalID: 2542289464067535879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_64
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2400
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a158131ce727be0800000000000000
+      internalID: -1480981959226877283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4a41e035c3169b0800000000000000
+      internalID: -5088719776535763792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_66
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4d9a6afdf296c20800000000000000
+      internalID: 3200141647843808429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_67
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a029e85b491f81da0800000000000000
+      internalID: -5973759284703489526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_68
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b35e0f0b73b559b0800000000000000
+      internalID: -5091966462557531213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_69
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfb70912f69493f0800000000000000
+      internalID: -894924459393695797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_70
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d69c183a858e2e0800000000000000
+      internalID: -2096328167260590692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_71
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43113e269dfd2720800000000000000
+      internalID: 2823191362893058891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_72
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3097023cad054ebd0800000000000000
+      internalID: -2601865784206526205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_73
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937647128f0b01b00800000000000000
+      internalID: 797331713804232505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_74
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c27f688d02cd000800000000000000
+      internalID: 61960609225714774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_75
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b547e2a8170ecfd10800000000000000
+      internalID: 2160848699485221979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_76
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d2d7b465f087e10800000000000000
+      internalID: 2195521681651215639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_77
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a642648e1ef988220800000000000000
+      internalID: 2488414586735567978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ba9fc9d3fc486a0800000000000000
+      internalID: -6447800902954144909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_79
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807fb995d947b9630800000000000000
+      internalID: 3934866918600341256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_80
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c154f5ca617c460800000000000000
+      internalID: 7261797853746764906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_81
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a316d06df6c1dbfd0800000000000000
+      internalID: -2324670565995159238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_82
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1274cffe4a7c1c2f0800000000000000
+      internalID: -954262134810982623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_83
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3afa86cc473a6b80800000000000000
+      internalID: -8400841352018200004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_84
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084c231f079d1c370800000000000000
+      internalID: 8341187063973069952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_85
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af09469425a997070800000000000000
+      internalID: 8104678682639241466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_86
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f81438997a34100800000000000000
+      internalID: 91100695251488579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_87
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666807546be57bea0800000000000000
+      internalID: -5857108653429979546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_88
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52f4a004e3d6e030800000000000000
+      internalID: 3523736734680805980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_89
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd2f458cdcaf8f80800000000000000
+      internalID: -8102067141486891588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_90
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810839f7346892f80800000000000000
+      internalID: -8130820027779416040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2a4e4f542d526e0800000000000000
+      internalID: -1862851672944631041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_92
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5682000880df9310800000000000000
+      internalID: 1414078090551920222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_93
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5272b5fb99254a80800000000000000
+      internalID: -8483328573263678884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_94
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d3d83010c2a1c00800000000000000
+      internalID: 872057860715789607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_95
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac208a27c9610a630800000000000000
+      internalID: 3936170935516136138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_96
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c55ae043f0bf78e0800000000000000
+      internalID: -1693440376055376445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_97
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3288b6a1e5ebed0800000000000000
+      internalID: -2396374484148280361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_98
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218f38778a9b08080800000000000000
+      internalID: -9187139106625030126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_99
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5514fe3a80a188fc0800000000000000
+      internalID: -3492512886613393067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_100
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c884483ae31fc0240800000000000000
+      internalID: 4759444157557393548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_101
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc55b2783d18d90e0800000000000000
+      internalID: -2261508692364274228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_102
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335e2064a75393a20800000000000000
+      internalID: 3042521822542357811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_103
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a82116d943bf750800000000000000
+      internalID: 6339718750997219843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76350cbf464e4770800000000000000
+      internalID: 8596886046967674493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_105
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807451739d223e680800000000000000
+      internalID: -8727093336586500344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_106
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c4e0cd465acebc0800000000000000
+      internalID: -3752442536899228516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_107
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7ce720fdffb32d0800000000000000
+      internalID: -3297760968834103315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_108
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07cb0e17d9402a60800000000000000
+      internalID: 7647193355545986826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_109
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfce198c667ac6730800000000000000
+      internalID: 3993751029464296700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_110
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be272ca4e7c16ef0800000000000000
+      internalID: -116592330380202320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_111
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffcf786fbfe77380800000000000000
+      internalID: -8973440127141425164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_112
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8851c9fc569d49eb0800000000000000
+      internalID: -4713903878652029560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_113
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675d809f2aabfe570800000000000000
+      internalID: 8498216230996989302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_114
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbae9f6bee802e90800000000000000
+      internalID: -7052479874621068348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_115
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cbb7eecca050af0800000000000000
+      internalID: -430926314053321708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_116
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a50101b4d5bc750800000000000000
+      internalID: 6326252678545431104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06af5178656a98270800000000000000
+      internalID: 8253310682696907360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_118
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8253ee2ca02f3d7d0800000000000000
+      internalID: -2894704007435111128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_119
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b57dd0ffb938810800000000000000
+      internalID: 1766426998610549516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_120
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967cc407553f2ce00800000000000000
+      internalID: 1063680010294708073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_121
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93f1cfff93dc21a0800000000000000
+      internalID: -6832853850483723364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_122
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb9a3b80e0747a00800000000000000
+      internalID: 753351147388574688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_123
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4561d84c4461a7b60800000000000000
+      internalID: 7744526993828157012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_124
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e96ffee35b727d90800000000000000
+      internalID: -7101478061987632672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_125
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6a326971c845250800000000000000
+      internalID: 5932520642084841142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_126
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e20ff02638b0f5c0800000000000000
+      internalID: -4183641511205862685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_127
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18686bd7d7f5b89f0800000000000000
+      internalID: -465173143918049663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_128
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01077f9e76d4fd0a0800000000000000
+      internalID: -6854674999132327920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_129
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373a1e3f8f2ea6a40800000000000000
+      internalID: 5362347865209414515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fc6ba49a4558d00800000000000000
+      internalID: 974277980475281205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_131
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62b9f65465913090800000000000000
+      internalID: -8056494000200633746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_132
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e200e1f97dbffeab0800000000000000
+      internalID: -4976482159715024850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_133
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cdbd436c95fe650800000000000000
+      internalID: 6264324314520869952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_134
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516023729090af9b0800000000000000
+      internalID: -5045710497598274027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_135
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5514d08dbaf35c10800000000000000
+      internalID: 2041250747946112351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_136
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6ab1310d0f71400800000000000000
+      internalID: 294969077080499926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_137
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b6c3a37361ceb50800000000000000
+      internalID: 6623693578411207525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_138
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18dc0c8294a0ecd0800000000000000
+      internalID: -2530842041260386278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_139
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7147ccf65f4c194f0800000000000000
+      internalID: -823660698410388457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_140
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d6215738e964de0800000000000000
+      internalID: -1349216750908838584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_141
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ea815277455f4d0800000000000000
+      internalID: -3101479897674502505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_142
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40df6072415bb5650800000000000000
+      internalID: 6222766408301214980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ade2d4b8bd11e70800000000000000
+      internalID: 9084283314724854340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_144
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82dee854e2d56250800000000000000
+      internalID: 5937383561944289934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_145
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650d0ac123f1917b0800000000000000
+      internalID: -5253133190261845930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_146
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d31c82e4ceedf00800000000000000
+      internalID: 1143611175834041684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_147
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1831cc6795552d2f0800000000000000
+      internalID: -949602728688217215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_148
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e03d92e1f0883de0800000000000000
+      internalID: -1353189911647407903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_149
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d887536d69ec2bc0800000000000000
+      internalID: -3806410929007523630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_150
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7361179d6ed53800800000000000000
+      internalID: 591623488336388986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_151
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bba8e356728976c0800000000000000
+      internalID: -4145138537292321863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_152
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86614fa66faf97eb0800000000000000
+      internalID: -4721466798057974168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_153
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1cd01ec91828f90800000000000000
+      internalID: -6952852363915968030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_154
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ebc655bfd5c0360800000000000000
+      internalID: 7137182843526757923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_155
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b023cc88cc2a1770800000000000000
+      internalID: 8582221279774580913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0face0caeb8e1e40800000000000000
+      internalID: 5629090424635043597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_157
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462f76d6abd68adb0800000000000000
+      internalID: -4780450356986908060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_158
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cea789c4510b3e10800000000000000
+      internalID: 2178336308433759940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_basic_headlock_1p_159
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14348bcbef9cf97c0800000000000000
+      internalID: -4062306242939829439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3aa662ff757429041a0576e51be3ba68
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_0: 6654976619229779217
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_1: -7791234239712480318
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_10: 298700692046009312
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_100: 4759444157557393548
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_101: -2261508692364274228
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_102: 3042521822542357811
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_103: 6339718750997219843
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_104: 8596886046967674493
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_105: -8727093336586500344
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_106: -3752442536899228516
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_107: -3297760968834103315
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_108: 7647193355545986826
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_109: 3993751029464296700
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_11: -6197259342456509013
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_110: -116592330380202320
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_111: -8973440127141425164
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_112: -4713903878652029560
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_113: 8498216230996989302
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_114: -7052479874621068348
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_115: -430926314053321708
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_116: 6326252678545431104
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_117: 8253310682696907360
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_118: -2894704007435111128
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_119: 1766426998610549516
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_12: -8403642919222181734
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_120: 1063680010294708073
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_121: -6832853850483723364
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_122: 753351147388574688
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_123: 7744526993828157012
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_124: -7101478061987632672
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_125: 5932520642084841142
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_126: -4183641511205862685
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_127: -465173143918049663
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_128: -6854674999132327920
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_129: 5362347865209414515
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_13: 6187854555218271479
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_130: 974277980475281205
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_131: -8056494000200633746
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_132: -4976482159715024850
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_133: 6264324314520869952
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_134: -5045710497598274027
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_135: 2041250747946112351
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_136: 294969077080499926
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_137: 6623693578411207525
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_138: -2530842041260386278
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_139: -823660698410388457
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_14: -4315775795445914441
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_140: -1349216750908838584
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_141: -3101479897674502505
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_142: 6222766408301214980
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_143: 9084283314724854340
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_144: 5937383561944289934
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_145: -5253133190261845930
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_146: 1143611175834041684
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_147: -949602728688217215
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_148: -1353189911647407903
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_149: -3806410929007523630
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_15: -668170445188323986
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_150: 591623488336388986
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_151: -4145138537292321863
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_152: -4721466798057974168
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_153: -6952852363915968030
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_154: 7137182843526757923
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_155: 8582221279774580913
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_156: 5629090424635043597
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_157: -4780450356986908060
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_158: 2178336308433759940
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_159: -4062306242939829439
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_16: 2234610732568343850
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_17: -8563881591362667688
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_18: -6676739378450473897
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_19: 1865118826655520735
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_2: 4197585301840504728
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_20: 1825935120461531605
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_21: 6594347936198756129
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_22: 1152991582737745394
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_23: -2127006605325080947
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_24: 3677686158176365409
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_25: -8307039068662150846
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_26: -8990392018043070057
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_27: -2604892164228271873
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_28: -4067002963824011973
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_29: -584621944958700924
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_3: -4797741682433719052
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_30: -464757926019109297
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_31: -493734539664798500
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_32: 7371296210108581493
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_33: -730480730409434842
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_34: -3642214976295422990
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_35: 8579860003073276597
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_36: 8068208714678463438
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_37: 7855387417570338005
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_38: 7385145453424175830
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_39: 77451521009122018
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_4: 4501287844075025681
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_40: 8942487203494400637
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_41: 365548392067519215
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_42: -2741522199666348291
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_43: 9216160191334096174
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_44: 1891596318581803000
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_45: -704060140776736909
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_46: 2516409533277721322
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_47: 6120184042915244612
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_48: 6722238868418174484
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_49: -1574990024256773657
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_5: 252197631915667969
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_50: -4037910667579619122
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_51: 8377515606007612886
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_52: 459102632934159111
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_53: -2503379906319766299
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_54: 9160220241205398487
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_55: 8531677682466620103
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_56: 8664286659275571874
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_57: -3471933983887755711
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_58: 18862785035900843
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_59: -3812631753438144061
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_6: 3320811044711133606
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_60: 910255935167143260
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_61: -3097154129938176188
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_62: 4451447349570241844
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_63: 2542289464067535879
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_64: -1480981959226877283
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_65: -5088719776535763792
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_66: 3200141647843808429
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_67: -5973759284703489526
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_68: -5091966462557531213
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_69: -894924459393695797
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_7: -2420556999554225914
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_70: -2096328167260590692
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_71: 2823191362893058891
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_72: -2601865784206526205
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_73: 797331713804232505
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_74: 61960609225714774
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_75: 2160848699485221979
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_76: 2195521681651215639
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_77: 2488414586735567978
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_78: -6447800902954144909
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_79: 3934866918600341256
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_8: -238259199295399331
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_80: 7261797853746764906
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_81: -2324670565995159238
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_82: -954262134810982623
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_83: -8400841352018200004
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_84: 8341187063973069952
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_85: 8104678682639241466
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_86: 91100695251488579
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_87: -5857108653429979546
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_88: 3523736734680805980
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_89: -8102067141486891588
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_9: 8679310537655045687
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_90: -8130820027779416040
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_91: -1862851672944631041
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_92: 1414078090551920222
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_93: -8483328573263678884
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_94: 872057860715789607
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_95: 3936170935516136138
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_96: -1693440376055376445
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_97: -2396374484148280361
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_98: -9187139106625030126
+      testkaraktergures_testkaraktergures1_basic_headlock_1p_99: -3492512886613393067
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
