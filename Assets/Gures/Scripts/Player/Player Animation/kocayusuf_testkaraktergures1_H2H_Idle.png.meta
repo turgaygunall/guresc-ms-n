@@ -1,0 +1,1303 @@
+fileFormatVersion: 2
+guid: 4d24ad8a041dec44b96fa8ce4254536d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4073291054911506192
+    second: kocayusuf_testkaraktergures1_H2H_Idle_0
+  - first:
+      213: -7397708722256385877
+    second: kocayusuf_testkaraktergures1_H2H_Idle_1
+  - first:
+      213: -9075797760178461005
+    second: kocayusuf_testkaraktergures1_H2H_Idle_2
+  - first:
+      213: -5914437374080796806
+    second: kocayusuf_testkaraktergures1_H2H_Idle_3
+  - first:
+      213: 3745322476332077333
+    second: kocayusuf_testkaraktergures1_H2H_Idle_4
+  - first:
+      213: 8292640721490497164
+    second: kocayusuf_testkaraktergures1_H2H_Idle_5
+  - first:
+      213: 380416063528308122
+    second: kocayusuf_testkaraktergures1_H2H_Idle_6
+  - first:
+      213: -2534338542375160880
+    second: kocayusuf_testkaraktergures1_H2H_Idle_7
+  - first:
+      213: 1812513995880699459
+    second: kocayusuf_testkaraktergures1_H2H_Idle_8
+  - first:
+      213: -3046720116629132547
+    second: kocayusuf_testkaraktergures1_H2H_Idle_9
+  - first:
+      213: 7792089767290033575
+    second: kocayusuf_testkaraktergures1_H2H_Idle_10
+  - first:
+      213: -8851314299110887185
+    second: kocayusuf_testkaraktergures1_H2H_Idle_11
+  - first:
+      213: 804976417399746364
+    second: kocayusuf_testkaraktergures1_H2H_Idle_12
+  - first:
+      213: -7546091252256901077
+    second: kocayusuf_testkaraktergures1_H2H_Idle_13
+  - first:
+      213: -741231393434461697
+    second: kocayusuf_testkaraktergures1_H2H_Idle_14
+  - first:
+      213: 6305490524238550989
+    second: kocayusuf_testkaraktergures1_H2H_Idle_15
+  - first:
+      213: -6564621590558791560
+    second: kocayusuf_testkaraktergures1_H2H_Idle_16
+  - first:
+      213: 6243070002868555478
+    second: kocayusuf_testkaraktergures1_H2H_Idle_17
+  - first:
+      213: 2336596592351805836
+    second: kocayusuf_testkaraktergures1_H2H_Idle_18
+  - first:
+      213: 2128584552256451456
+    second: kocayusuf_testkaraktergures1_H2H_Idle_19
+  - first:
+      213: -4596965120108700507
+    second: kocayusuf_testkaraktergures1_H2H_Idle_20
+  - first:
+      213: -5613961927742036001
+    second: kocayusuf_testkaraktergures1_H2H_Idle_21
+  - first:
+      213: -2966160507565083108
+    second: kocayusuf_testkaraktergures1_H2H_Idle_22
+  - first:
+      213: -3944970603154400763
+    second: kocayusuf_testkaraktergures1_H2H_Idle_23
+  - first:
+      213: -6139748520649981352
+    second: kocayusuf_testkaraktergures1_H2H_Idle_24
+  - first:
+      213: 1100736061665145741
+    second: kocayusuf_testkaraktergures1_H2H_Idle_25
+  - first:
+      213: 160488507653093237
+    second: kocayusuf_testkaraktergures1_H2H_Idle_26
+  - first:
+      213: 4431315559359181333
+    second: kocayusuf_testkaraktergures1_H2H_Idle_27
+  - first:
+      213: 6185678797796813430
+    second: kocayusuf_testkaraktergures1_H2H_Idle_28
+  - first:
+      213: 8285243556356528167
+    second: kocayusuf_testkaraktergures1_H2H_Idle_29
+  - first:
+      213: 3113220931933591977
+    second: kocayusuf_testkaraktergures1_H2H_Idle_30
+  - first:
+      213: -5357431501118158309
+    second: kocayusuf_testkaraktergures1_H2H_Idle_31
+  - first:
+      213: 888738977950528379
+    second: kocayusuf_testkaraktergures1_H2H_Idle_32
+  - first:
+      213: -4846560920650158139
+    second: kocayusuf_testkaraktergures1_H2H_Idle_33
+  - first:
+      213: -2549561738092331134
+    second: kocayusuf_testkaraktergures1_H2H_Idle_34
+  - first:
+      213: 7075412147556528104
+    second: kocayusuf_testkaraktergures1_H2H_Idle_35
+  - first:
+      213: 5009291960495634299
+    second: kocayusuf_testkaraktergures1_H2H_Idle_36
+  - first:
+      213: -3653963317674727850
+    second: kocayusuf_testkaraktergures1_H2H_Idle_37
+  - first:
+      213: -1772565272015552070
+    second: kocayusuf_testkaraktergures1_H2H_Idle_38
+  - first:
+      213: 2684021897832465477
+    second: kocayusuf_testkaraktergures1_H2H_Idle_39
+  - first:
+      213: -3504161203572149204
+    second: kocayusuf_testkaraktergures1_H2H_Idle_40
+  - first:
+      213: -3955993596794586542
+    second: kocayusuf_testkaraktergures1_H2H_Idle_41
+  - first:
+      213: 8016585382737356302
+    second: kocayusuf_testkaraktergures1_H2H_Idle_42
+  - first:
+      213: -6449665894194939132
+    second: kocayusuf_testkaraktergures1_H2H_Idle_43
+  - first:
+      213: -7719707747836776788
+    second: kocayusuf_testkaraktergures1_H2H_Idle_44
+  - first:
+      213: -4296711523343614873
+    second: kocayusuf_testkaraktergures1_H2H_Idle_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f83935ed53c877c0800000000000000
+      internalID: -4073291054911506192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba86912ac1f065990800000000000000
+      internalID: -7397708722256385877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6e643d50a4c0280800000000000000
+      internalID: -9075797760178461005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77be975b82bbeda0800000000000000
+      internalID: -5914437374080796806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5115f0bd2fe0af330800000000000000
+      internalID: 3745322476332077333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e4166ccc0651370800000000000000
+      internalID: 8292640721490497164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d057de462874500800000000000000
+      internalID: 380416063528308122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3b521f58834dcd0800000000000000
+      internalID: -2534338542375160880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34694ea40e7572910800000000000000
+      internalID: 1812513995880699459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaa8463230e7b5d0800000000000000
+      internalID: -3046720116629132547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5574deb50132c60800000000000000
+      internalID: 7792089767290033575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0f82e8a80d92580800000000000000
+      internalID: -8851314299110887185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fada369c9db2b00800000000000000
+      internalID: 804976417399746364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b287b8aacf5e64790800000000000000
+      internalID: -7546091252256901077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff998f199fd96b5f0800000000000000
+      internalID: -741231393434461697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc794df493a918750800000000000000
+      internalID: 6305490524238550989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87822e9b177c5e4a0800000000000000
+      internalID: -6564621590558791560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de80e42717d3a650800000000000000
+      internalID: 6243070002868555478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81848e88324d6020800000000000000
+      internalID: 2336596592351805836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08331af5f504a8d10800000000000000
+      internalID: 2128584552256451456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac5f0b349c4430c0800000000000000
+      internalID: -4596965120108700507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd76e5aee533712b0800000000000000
+      internalID: -5613961927742036001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c167ac7dbb416d6d0800000000000000
+      internalID: -2966160507565083108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a9f954326a049c0800000000000000
+      internalID: -3944970603154400763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8528d60104b3bcaa0800000000000000
+      internalID: -6139748520649981352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83730bbd99964f00800000000000000
+      internalID: 1100736061665145741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577f139827b2a3200800000000000000
+      internalID: 160488507653093237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512f34be5023f7d30800000000000000
+      internalID: 4431315559359181333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a285de712f7d550800000000000000
+      internalID: 6185678797796813430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728993e0e191bf270800000000000000
+      internalID: 8285243556356528167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9563b61f1643b20800000000000000
+      internalID: 3113220931933591977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a4d534f6496a5b0800000000000000
+      internalID: -5357431501118158309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73f8c6446f655c00800000000000000
+      internalID: 888738977950528379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf6b56558e8dbcb0800000000000000
+      internalID: -4846560920650158139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f341c7b132e9cd0800000000000000
+      internalID: -2549561738092331134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef279e6cd9e03260800000000000000
+      internalID: 7075412147556528104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77ff896f74948540800000000000000
+      internalID: 5009291960495634299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656a0bbd8b38a4dc0800000000000000
+      internalID: -3653963317674727850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1c15cc6459667e0800000000000000
+      internalID: -1772565272015552070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5448cad02bf8f3520800000000000000
+      internalID: 2684021897832465477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24706183f7be5fc0800000000000000
+      internalID: -3504161203572149204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_41
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ab65198cc7919c0800000000000000
+      internalID: -3955993596794586542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0626a19ee1a04f60800000000000000
+      internalID: 8016585382737356302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_43
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bfe808a0f2e76a0800000000000000
+      internalID: -6449665894194939132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caeab5044b61ed490800000000000000
+      internalID: -7719707747836776788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Idle_45
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cb6cc62a30f54c0800000000000000
+      internalID: -4296711523343614873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 700443a1527a262409c4547c12149028
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kocayusuf_testkaraktergures1_H2H_Idle_0: -4073291054911506192
+      kocayusuf_testkaraktergures1_H2H_Idle_1: -7397708722256385877
+      kocayusuf_testkaraktergures1_H2H_Idle_10: 7792089767290033575
+      kocayusuf_testkaraktergures1_H2H_Idle_11: -8851314299110887185
+      kocayusuf_testkaraktergures1_H2H_Idle_12: 804976417399746364
+      kocayusuf_testkaraktergures1_H2H_Idle_13: -7546091252256901077
+      kocayusuf_testkaraktergures1_H2H_Idle_14: -741231393434461697
+      kocayusuf_testkaraktergures1_H2H_Idle_15: 6305490524238550989
+      kocayusuf_testkaraktergures1_H2H_Idle_16: -6564621590558791560
+      kocayusuf_testkaraktergures1_H2H_Idle_17: 6243070002868555478
+      kocayusuf_testkaraktergures1_H2H_Idle_18: 2336596592351805836
+      kocayusuf_testkaraktergures1_H2H_Idle_19: 2128584552256451456
+      kocayusuf_testkaraktergures1_H2H_Idle_2: -9075797760178461005
+      kocayusuf_testkaraktergures1_H2H_Idle_20: -4596965120108700507
+      kocayusuf_testkaraktergures1_H2H_Idle_21: -5613961927742036001
+      kocayusuf_testkaraktergures1_H2H_Idle_22: -2966160507565083108
+      kocayusuf_testkaraktergures1_H2H_Idle_23: -3944970603154400763
+      kocayusuf_testkaraktergures1_H2H_Idle_24: -6139748520649981352
+      kocayusuf_testkaraktergures1_H2H_Idle_25: 1100736061665145741
+      kocayusuf_testkaraktergures1_H2H_Idle_26: 160488507653093237
+      kocayusuf_testkaraktergures1_H2H_Idle_27: 4431315559359181333
+      kocayusuf_testkaraktergures1_H2H_Idle_28: 6185678797796813430
+      kocayusuf_testkaraktergures1_H2H_Idle_29: 8285243556356528167
+      kocayusuf_testkaraktergures1_H2H_Idle_3: -5914437374080796806
+      kocayusuf_testkaraktergures1_H2H_Idle_30: 3113220931933591977
+      kocayusuf_testkaraktergures1_H2H_Idle_31: -5357431501118158309
+      kocayusuf_testkaraktergures1_H2H_Idle_32: 888738977950528379
+      kocayusuf_testkaraktergures1_H2H_Idle_33: -4846560920650158139
+      kocayusuf_testkaraktergures1_H2H_Idle_34: -2549561738092331134
+      kocayusuf_testkaraktergures1_H2H_Idle_35: 7075412147556528104
+      kocayusuf_testkaraktergures1_H2H_Idle_36: 5009291960495634299
+      kocayusuf_testkaraktergures1_H2H_Idle_37: -3653963317674727850
+      kocayusuf_testkaraktergures1_H2H_Idle_38: -1772565272015552070
+      kocayusuf_testkaraktergures1_H2H_Idle_39: 2684021897832465477
+      kocayusuf_testkaraktergures1_H2H_Idle_4: 3745322476332077333
+      kocayusuf_testkaraktergures1_H2H_Idle_40: -3504161203572149204
+      kocayusuf_testkaraktergures1_H2H_Idle_41: -3955993596794586542
+      kocayusuf_testkaraktergures1_H2H_Idle_42: 8016585382737356302
+      kocayusuf_testkaraktergures1_H2H_Idle_43: -6449665894194939132
+      kocayusuf_testkaraktergures1_H2H_Idle_44: -7719707747836776788
+      kocayusuf_testkaraktergures1_H2H_Idle_45: -4296711523343614873
+      kocayusuf_testkaraktergures1_H2H_Idle_5: 8292640721490497164
+      kocayusuf_testkaraktergures1_H2H_Idle_6: 380416063528308122
+      kocayusuf_testkaraktergures1_H2H_Idle_7: -2534338542375160880
+      kocayusuf_testkaraktergures1_H2H_Idle_8: 1812513995880699459
+      kocayusuf_testkaraktergures1_H2H_Idle_9: -3046720116629132547
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -46,15 +46,15 @@ Material:
     m_Ints: []
     m_Floats:
     - _EnableExternalAlpha: 0
-    - _Glossiness: 0.454
-    - _NoiseScale: 3.85
+    - _Glossiness: 1
+    - _NoiseScale: 4.41
     - _OilIntensity: 0
     - _ShineFrequency: 10
-    - _ShineSpeed: 5
-    - _SpecularPower: 100
+    - _ShineSpeed: 3.25
+    - _SpecularPower: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _OilColor: {r: 1, g: 0.6753247, b: 0, a: 0.3137255}
+    - _OilColor: {r: 1, g: 0.6745098, b: 0, a: 0.3137255}
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

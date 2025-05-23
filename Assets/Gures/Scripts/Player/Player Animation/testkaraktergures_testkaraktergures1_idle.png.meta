@@ -1,0 +1,1653 @@
+fileFormatVersion: 2
+guid: 6672eadb921f2a347a24916afc3ac8d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7474383876488813429
+    second: testkaraktergures_testkaraktergures1_idle_0
+  - first:
+      213: -1866530772493860701
+    second: testkaraktergures_testkaraktergures1_idle_1
+  - first:
+      213: -6226076457056713890
+    second: testkaraktergures_testkaraktergures1_idle_2
+  - first:
+      213: 5502446461456836649
+    second: testkaraktergures_testkaraktergures1_idle_3
+  - first:
+      213: 3953857000842170163
+    second: testkaraktergures_testkaraktergures1_idle_4
+  - first:
+      213: 3635641934201066133
+    second: testkaraktergures_testkaraktergures1_idle_5
+  - first:
+      213: -5040414678577530583
+    second: testkaraktergures_testkaraktergures1_idle_6
+  - first:
+      213: -6594585179217406247
+    second: testkaraktergures_testkaraktergures1_idle_7
+  - first:
+      213: -5826034356941748065
+    second: testkaraktergures_testkaraktergures1_idle_8
+  - first:
+      213: 8800656978066626975
+    second: testkaraktergures_testkaraktergures1_idle_9
+  - first:
+      213: 3196622288339139137
+    second: testkaraktergures_testkaraktergures1_idle_10
+  - first:
+      213: 7388455103337615417
+    second: testkaraktergures_testkaraktergures1_idle_11
+  - first:
+      213: 212798604936472868
+    second: testkaraktergures_testkaraktergures1_idle_12
+  - first:
+      213: -2822937134148542917
+    second: testkaraktergures_testkaraktergures1_idle_13
+  - first:
+      213: 8032245174250685557
+    second: testkaraktergures_testkaraktergures1_idle_14
+  - first:
+      213: 1349098145754336389
+    second: testkaraktergures_testkaraktergures1_idle_15
+  - first:
+      213: -7464303935399658006
+    second: testkaraktergures_testkaraktergures1_idle_16
+  - first:
+      213: -6402451111443668325
+    second: testkaraktergures_testkaraktergures1_idle_17
+  - first:
+      213: -3505137217963438512
+    second: testkaraktergures_testkaraktergures1_idle_18
+  - first:
+      213: 2569302352160307718
+    second: testkaraktergures_testkaraktergures1_idle_19
+  - first:
+      213: -4591810929451883555
+    second: testkaraktergures_testkaraktergures1_idle_20
+  - first:
+      213: 5173463034038647254
+    second: testkaraktergures_testkaraktergures1_idle_21
+  - first:
+      213: -7501353868142783214
+    second: testkaraktergures_testkaraktergures1_idle_22
+  - first:
+      213: 7246004630339620182
+    second: testkaraktergures_testkaraktergures1_idle_23
+  - first:
+      213: -1531014856120235201
+    second: testkaraktergures_testkaraktergures1_idle_24
+  - first:
+      213: -5262888481433945443
+    second: testkaraktergures_testkaraktergures1_idle_25
+  - first:
+      213: -5347012686444950146
+    second: testkaraktergures_testkaraktergures1_idle_26
+  - first:
+      213: -2750856631678996296
+    second: testkaraktergures_testkaraktergures1_idle_27
+  - first:
+      213: -7541228006204701125
+    second: testkaraktergures_testkaraktergures1_idle_28
+  - first:
+      213: -8007714012345312885
+    second: testkaraktergures_testkaraktergures1_idle_29
+  - first:
+      213: 5224762041153363609
+    second: testkaraktergures_testkaraktergures1_idle_30
+  - first:
+      213: -3490559285587030075
+    second: testkaraktergures_testkaraktergures1_idle_31
+  - first:
+      213: -6037616993876812227
+    second: testkaraktergures_testkaraktergures1_idle_32
+  - first:
+      213: -2003282971293227462
+    second: testkaraktergures_testkaraktergures1_idle_33
+  - first:
+      213: -4230756702140409838
+    second: testkaraktergures_testkaraktergures1_idle_34
+  - first:
+      213: 7594604306052813823
+    second: testkaraktergures_testkaraktergures1_idle_35
+  - first:
+      213: -3767089724880051717
+    second: testkaraktergures_testkaraktergures1_idle_36
+  - first:
+      213: 4075369120780774704
+    second: testkaraktergures_testkaraktergures1_idle_37
+  - first:
+      213: 6380076565855797762
+    second: testkaraktergures_testkaraktergures1_idle_38
+  - first:
+      213: 2315389128932347016
+    second: testkaraktergures_testkaraktergures1_idle_39
+  - first:
+      213: 8124329128743269852
+    second: testkaraktergures_testkaraktergures1_idle_40
+  - first:
+      213: -2692061802443445428
+    second: testkaraktergures_testkaraktergures1_idle_41
+  - first:
+      213: -4393287329728322097
+    second: testkaraktergures_testkaraktergures1_idle_42
+  - first:
+      213: 3875394404241188064
+    second: testkaraktergures_testkaraktergures1_idle_43
+  - first:
+      213: 4623618929533101404
+    second: testkaraktergures_testkaraktergures1_idle_44
+  - first:
+      213: 9070186818284586126
+    second: testkaraktergures_testkaraktergures1_idle_45
+  - first:
+      213: 8302070248947068493
+    second: testkaraktergures_testkaraktergures1_idle_46
+  - first:
+      213: 7746881086493168169
+    second: testkaraktergures_testkaraktergures1_idle_47
+  - first:
+      213: -8126886351716804486
+    second: testkaraktergures_testkaraktergures1_idle_48
+  - first:
+      213: 5514815167732829650
+    second: testkaraktergures_testkaraktergures1_idle_49
+  - first:
+      213: 5858937510280327807
+    second: testkaraktergures_testkaraktergures1_idle_50
+  - first:
+      213: 2480621170830144429
+    second: testkaraktergures_testkaraktergures1_idle_51
+  - first:
+      213: -5712108340055138621
+    second: testkaraktergures_testkaraktergures1_idle_52
+  - first:
+      213: -6629721342955949602
+    second: testkaraktergures_testkaraktergures1_idle_53
+  - first:
+      213: 5175283352542634917
+    second: testkaraktergures_testkaraktergures1_idle_54
+  - first:
+      213: -4440164271066887603
+    second: testkaraktergures_testkaraktergures1_idle_55
+  - first:
+      213: 8118673793958235533
+    second: testkaraktergures_testkaraktergures1_idle_56
+  - first:
+      213: -5933558057546476098
+    second: testkaraktergures_testkaraktergures1_idle_57
+  - first:
+      213: 6382067298515451722
+    second: testkaraktergures_testkaraktergures1_idle_58
+  - first:
+      213: -2768579651968660766
+    second: testkaraktergures_testkaraktergures1_idle_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bd501e8885ab760800000000000000
+      internalID: 7474383876488813429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a00b27d620c816e0800000000000000
+      internalID: -1866530772493860701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5346b013788899a0800000000000000
+      internalID: -6226076457056713890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9286dba47ed9c5c40800000000000000
+      internalID: 5502446461456836649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f83eb6efbeed630800000000000000
+      internalID: 3953857000842170163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5929192a315647230800000000000000
+      internalID: 3635641934201066133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_6
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929b8ba1e89dc0ab0800000000000000
+      internalID: -5040414678577530583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_7
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6d0b718b35b74a0800000000000000
+      internalID: -6594585179217406247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_8
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f980449be94c52fa0800000000000000
+      internalID: -5826034356941748065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_9
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9959b7c4e6322a70800000000000000
+      internalID: 8800656978066626975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_10
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14afc89e80fac5c20800000000000000
+      internalID: 3196622288339139137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_11
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9305c5155c0198660800000000000000
+      internalID: 7388455103337615417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_12
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429efe7243304f200800000000000000
+      internalID: 212798604936472868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e11df02a9e2d8d0800000000000000
+      internalID: -2822937134148542917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574ce08ed64487f60800000000000000
+      internalID: 8032245174250685557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c43d0ad95f8b210800000000000000
+      internalID: 1349098145754336389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_16
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedf3fa4e17796890800000000000000
+      internalID: -7464303935399658006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b926892c2ace527a0800000000000000
+      internalID: -6402451111443668325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_18
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ec94275404b5fc0800000000000000
+      internalID: -3505137217963438512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_19
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a371560eef7a320800000000000000
+      internalID: 2569302352160307718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_20
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3a342c94c9640c0800000000000000
+      internalID: -4591810929451883555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_21
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9fc722835dbc740800000000000000
+      internalID: 5173463034038647254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_22
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215d8da9666d5e790800000000000000
+      internalID: -7501353868142783214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_23
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d8a3002dafe8460800000000000000
+      internalID: 7246004630339620182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_24
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b8b1b991eb0cae0800000000000000
+      internalID: -1531014856120235201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_25
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a72a36fc676f6b0800000000000000
+      internalID: -5262888481433945443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d01f69a489bc5b0800000000000000
+      internalID: -5347012686444950146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0feb8d77ef2d9d0800000000000000
+      internalID: -2750856631678996296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3601ff551d285790800000000000000
+      internalID: -7541228006204701125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b895d3f4882eed090800000000000000
+      internalID: -8007714012345312885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_30
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e14eaf465128840800000000000000
+      internalID: 5224762041153363609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_31
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfc423d2da0f8fc0800000000000000
+      internalID: -3490559285587030075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_32
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e5c1e2553163ca0800000000000000
+      internalID: -6037616993876812227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_33
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a366a7f50c8e234e0800000000000000
+      internalID: -2003282971293227462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_34
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21851d5e1355945c0800000000000000
+      internalID: -4230756702140409838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_35
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff31eefd064756960800000000000000
+      internalID: 7594604306052813823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_36
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf12087aadb98bbc0800000000000000
+      internalID: -3767089724880051717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_37
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03debb48f9e9e8830800000000000000
+      internalID: 4075369120780774704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_38
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20201a365d59a8850800000000000000
+      internalID: 6380076565855797762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c40d2352ae12020800000000000000
+      internalID: 2315389128932347016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_40
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5f91d4c4a6fb070800000000000000
+      internalID: 8124329128743269852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_41
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4be5f7cd00e3aad0800000000000000
+      internalID: -2692061802443445428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_42
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5a1534378e703c0800000000000000
+      internalID: -4393287329728322097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_43
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4255d8daa28c530800000000000000
+      internalID: 3875394404241188064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_44
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55a79f5be46a2040800000000000000
+      internalID: 4623618929533101404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_45
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e848846fad6cfdd70800000000000000
+      internalID: 9070186818284586126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_46
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e24d8b7e0e63370800000000000000
+      internalID: 8302070248947068493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_47
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9221e9dad43728b60800000000000000
+      internalID: 7746881086493168169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_48
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7813f3dbef773f80800000000000000
+      internalID: -8126886351716804486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_49
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddc6a22d2f888c40800000000000000
+      internalID: 5514815167732829650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_50
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f727875af902f4150800000000000000
+      internalID: 5858937510280327807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_51
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3f4addfcfec6220800000000000000
+      internalID: 2480621170830144429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce97709ab38ab0b0800000000000000
+      internalID: -5712108340055138621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1f849709f7ef3a0800000000000000
+      internalID: -6629721342955949602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_54
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3eb401acc42d740800000000000000
+      internalID: 5175283352542634917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_55
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a4da6de1e5162c0800000000000000
+      internalID: -4440164271066887603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_56
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d47201dc25ba070800000000000000
+      internalID: 8118673793958235533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_57
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb519cd4264c7ada0800000000000000
+      internalID: -5933558057546476098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_58
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f76a4f468a19850800000000000000
+      internalID: 6382067298515451722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: testkaraktergures_testkaraktergures1_idle_59
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea8800a9770499d0800000000000000
+      internalID: -2768579651968660766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3fd614e7cd9063d48a42767a49f03dad
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      testkaraktergures_testkaraktergures1_idle_0: 7474383876488813429
+      testkaraktergures_testkaraktergures1_idle_1: -1866530772493860701
+      testkaraktergures_testkaraktergures1_idle_10: 3196622288339139137
+      testkaraktergures_testkaraktergures1_idle_11: 7388455103337615417
+      testkaraktergures_testkaraktergures1_idle_12: 212798604936472868
+      testkaraktergures_testkaraktergures1_idle_13: -2822937134148542917
+      testkaraktergures_testkaraktergures1_idle_14: 8032245174250685557
+      testkaraktergures_testkaraktergures1_idle_15: 1349098145754336389
+      testkaraktergures_testkaraktergures1_idle_16: -7464303935399658006
+      testkaraktergures_testkaraktergures1_idle_17: -6402451111443668325
+      testkaraktergures_testkaraktergures1_idle_18: -3505137217963438512
+      testkaraktergures_testkaraktergures1_idle_19: 2569302352160307718
+      testkaraktergures_testkaraktergures1_idle_2: -6226076457056713890
+      testkaraktergures_testkaraktergures1_idle_20: -4591810929451883555
+      testkaraktergures_testkaraktergures1_idle_21: 5173463034038647254
+      testkaraktergures_testkaraktergures1_idle_22: -7501353868142783214
+      testkaraktergures_testkaraktergures1_idle_23: 7246004630339620182
+      testkaraktergures_testkaraktergures1_idle_24: -1531014856120235201
+      testkaraktergures_testkaraktergures1_idle_25: -5262888481433945443
+      testkaraktergures_testkaraktergures1_idle_26: -5347012686444950146
+      testkaraktergures_testkaraktergures1_idle_27: -2750856631678996296
+      testkaraktergures_testkaraktergures1_idle_28: -7541228006204701125
+      testkaraktergures_testkaraktergures1_idle_29: -8007714012345312885
+      testkaraktergures_testkaraktergures1_idle_3: 5502446461456836649
+      testkaraktergures_testkaraktergures1_idle_30: 5224762041153363609
+      testkaraktergures_testkaraktergures1_idle_31: -3490559285587030075
+      testkaraktergures_testkaraktergures1_idle_32: -6037616993876812227
+      testkaraktergures_testkaraktergures1_idle_33: -2003282971293227462
+      testkaraktergures_testkaraktergures1_idle_34: -4230756702140409838
+      testkaraktergures_testkaraktergures1_idle_35: 7594604306052813823
+      testkaraktergures_testkaraktergures1_idle_36: -3767089724880051717
+      testkaraktergures_testkaraktergures1_idle_37: 4075369120780774704
+      testkaraktergures_testkaraktergures1_idle_38: 6380076565855797762
+      testkaraktergures_testkaraktergures1_idle_39: 2315389128932347016
+      testkaraktergures_testkaraktergures1_idle_4: 3953857000842170163
+      testkaraktergures_testkaraktergures1_idle_40: 8124329128743269852
+      testkaraktergures_testkaraktergures1_idle_41: -2692061802443445428
+      testkaraktergures_testkaraktergures1_idle_42: -4393287329728322097
+      testkaraktergures_testkaraktergures1_idle_43: 3875394404241188064
+      testkaraktergures_testkaraktergures1_idle_44: 4623618929533101404
+      testkaraktergures_testkaraktergures1_idle_45: 9070186818284586126
+      testkaraktergures_testkaraktergures1_idle_46: 8302070248947068493
+      testkaraktergures_testkaraktergures1_idle_47: 7746881086493168169
+      testkaraktergures_testkaraktergures1_idle_48: -8126886351716804486
+      testkaraktergures_testkaraktergures1_idle_49: 5514815167732829650
+      testkaraktergures_testkaraktergures1_idle_5: 3635641934201066133
+      testkaraktergures_testkaraktergures1_idle_50: 5858937510280327807
+      testkaraktergures_testkaraktergures1_idle_51: 2480621170830144429
+      testkaraktergures_testkaraktergures1_idle_52: -5712108340055138621
+      testkaraktergures_testkaraktergures1_idle_53: -6629721342955949602
+      testkaraktergures_testkaraktergures1_idle_54: 5175283352542634917
+      testkaraktergures_testkaraktergures1_idle_55: -4440164271066887603
+      testkaraktergures_testkaraktergures1_idle_56: 8118673793958235533
+      testkaraktergures_testkaraktergures1_idle_57: -5933558057546476098
+      testkaraktergures_testkaraktergures1_idle_58: 6382067298515451722
+      testkaraktergures_testkaraktergures1_idle_59: -2768579651968660766
+      testkaraktergures_testkaraktergures1_idle_6: -5040414678577530583
+      testkaraktergures_testkaraktergures1_idle_7: -6594585179217406247
+      testkaraktergures_testkaraktergures1_idle_8: -5826034356941748065
+      testkaraktergures_testkaraktergures1_idle_9: 8800656978066626975
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

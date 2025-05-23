@@ -1,0 +1,1653 @@
+fileFormatVersion: 2
+guid: 916685e761b27614c8336f0a9bcd7381
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -563918479562316055
+    second: kocayusuf_H2H_WalkForward_0
+  - first:
+      213: 4130419868137562065
+    second: kocayusuf_H2H_WalkForward_1
+  - first:
+      213: 7912864240252821525
+    second: kocayusuf_H2H_WalkForward_2
+  - first:
+      213: 8961593027683748700
+    second: kocayusuf_H2H_WalkForward_3
+  - first:
+      213: 87241733379216119
+    second: kocayusuf_H2H_WalkForward_4
+  - first:
+      213: -669974750218152288
+    second: kocayusuf_H2H_WalkForward_5
+  - first:
+      213: 7738401829415353604
+    second: kocayusuf_H2H_WalkForward_6
+  - first:
+      213: -6723416428791970260
+    second: kocayusuf_H2H_WalkForward_7
+  - first:
+      213: 7429995436027810000
+    second: kocayusuf_H2H_WalkForward_8
+  - first:
+      213: -166692027775016199
+    second: kocayusuf_H2H_WalkForward_9
+  - first:
+      213: -5890610250440766341
+    second: kocayusuf_H2H_WalkForward_10
+  - first:
+      213: -551916123829190024
+    second: kocayusuf_H2H_WalkForward_11
+  - first:
+      213: 5786333370410681525
+    second: kocayusuf_H2H_WalkForward_12
+  - first:
+      213: 2882287367187859216
+    second: kocayusuf_H2H_WalkForward_13
+  - first:
+      213: 4118908698459103197
+    second: kocayusuf_H2H_WalkForward_14
+  - first:
+      213: -2170896367656529826
+    second: kocayusuf_H2H_WalkForward_15
+  - first:
+      213: -1108627731806191265
+    second: kocayusuf_H2H_WalkForward_16
+  - first:
+      213: -6377519937053282083
+    second: kocayusuf_H2H_WalkForward_17
+  - first:
+      213: -8225265837512422481
+    second: kocayusuf_H2H_WalkForward_18
+  - first:
+      213: 8464544906197967319
+    second: kocayusuf_H2H_WalkForward_19
+  - first:
+      213: -8300996597648450577
+    second: kocayusuf_H2H_WalkForward_20
+  - first:
+      213: 1775232870022521098
+    second: kocayusuf_H2H_WalkForward_21
+  - first:
+      213: -7976209889568376353
+    second: kocayusuf_H2H_WalkForward_22
+  - first:
+      213: -7904183203711882052
+    second: kocayusuf_H2H_WalkForward_23
+  - first:
+      213: 8863990938217937821
+    second: kocayusuf_H2H_WalkForward_24
+  - first:
+      213: -3362668259951469127
+    second: kocayusuf_H2H_WalkForward_25
+  - first:
+      213: -2818148595002259455
+    second: kocayusuf_H2H_WalkForward_26
+  - first:
+      213: 6421739031290918247
+    second: kocayusuf_H2H_WalkForward_27
+  - first:
+      213: -1693429332265176610
+    second: kocayusuf_H2H_WalkForward_28
+  - first:
+      213: -720073134273975261
+    second: kocayusuf_H2H_WalkForward_29
+  - first:
+      213: 1415082113769783076
+    second: kocayusuf_H2H_WalkForward_30
+  - first:
+      213: 4572063045312449989
+    second: kocayusuf_H2H_WalkForward_31
+  - first:
+      213: 1054219383438068868
+    second: kocayusuf_H2H_WalkForward_32
+  - first:
+      213: 4872937485856573772
+    second: kocayusuf_H2H_WalkForward_33
+  - first:
+      213: -6625356657587249838
+    second: kocayusuf_H2H_WalkForward_34
+  - first:
+      213: -6802261003065919969
+    second: kocayusuf_H2H_WalkForward_35
+  - first:
+      213: 7297323379477504888
+    second: kocayusuf_H2H_WalkForward_36
+  - first:
+      213: -1920301253835248569
+    second: kocayusuf_H2H_WalkForward_37
+  - first:
+      213: 2908931331613635302
+    second: kocayusuf_H2H_WalkForward_38
+  - first:
+      213: 7872331444574237860
+    second: kocayusuf_H2H_WalkForward_39
+  - first:
+      213: 8885153353470469171
+    second: kocayusuf_H2H_WalkForward_40
+  - first:
+      213: -6529116104099629541
+    second: kocayusuf_H2H_WalkForward_41
+  - first:
+      213: -2041475043363135257
+    second: kocayusuf_H2H_WalkForward_42
+  - first:
+      213: 2746161374027610868
+    second: kocayusuf_H2H_WalkForward_43
+  - first:
+      213: 5969660444695673501
+    second: kocayusuf_H2H_WalkForward_44
+  - first:
+      213: -1509782722640257494
+    second: kocayusuf_H2H_WalkForward_45
+  - first:
+      213: 8227889402266268534
+    second: kocayusuf_H2H_WalkForward_46
+  - first:
+      213: -1305099808170896034
+    second: kocayusuf_H2H_WalkForward_47
+  - first:
+      213: 5301224513469746853
+    second: kocayusuf_H2H_WalkForward_48
+  - first:
+      213: -3821136705877067939
+    second: kocayusuf_H2H_WalkForward_49
+  - first:
+      213: -2872362444080705088
+    second: kocayusuf_H2H_WalkForward_50
+  - first:
+      213: -7551978643182848513
+    second: kocayusuf_H2H_WalkForward_51
+  - first:
+      213: -3297044509167481699
+    second: kocayusuf_H2H_WalkForward_52
+  - first:
+      213: -3977262300887161887
+    second: kocayusuf_H2H_WalkForward_53
+  - first:
+      213: -8849321421143044537
+    second: kocayusuf_H2H_WalkForward_54
+  - first:
+      213: -7729645709646191222
+    second: kocayusuf_H2H_WalkForward_55
+  - first:
+      213: 4205679172014818915
+    second: kocayusuf_H2H_WalkForward_56
+  - first:
+      213: 5948642511332670238
+    second: kocayusuf_H2H_WalkForward_57
+  - first:
+      213: -5694483849534538777
+    second: kocayusuf_H2H_WalkForward_58
+  - first:
+      213: 2147830585075876375
+    second: kocayusuf_H2H_WalkForward_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6e86f612f8c28f0800000000000000
+      internalID: -563918479562316055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df1e857cf2325930800000000000000
+      internalID: 4130419868137562065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51029243a1420dd60800000000000000
+      internalID: 7912864240252821525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b05bcc069fd5c70800000000000000
+      internalID: 8961593027683748700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f258afe4e1f53100800000000000000
+      internalID: 87241733379216119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a614cca385c3b6f0800000000000000
+      internalID: -669974750218152288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_6
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40df88bc673546b60800000000000000
+      internalID: 7738401829415353604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_7
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2644d45160a1b2a0800000000000000
+      internalID: -6723416428791970260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_8
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d01637bb75ac1760800000000000000
+      internalID: 7429995436027810000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_9
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2a491eb7acfadf0800000000000000
+      internalID: -166692027775016199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_10
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c0430ef29504ea0800000000000000
+      internalID: -5890610250440766341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_11
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872c955a5333758f0800000000000000
+      internalID: -551916123829190024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_12
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b441570b8f2d4050800000000000000
+      internalID: 5786333370410681525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01704d5e611fff720800000000000000
+      internalID: 2882287367187859216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfdbe963ad492930800000000000000
+      internalID: 4118908698459103197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5095a9614d6fd1e0800000000000000
+      internalID: -2170896367656529826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_16
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f518b81a3fc5d90f0800000000000000
+      internalID: -1108627731806191265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0b7f3286f7e77a0800000000000000
+      internalID: -6377519937053282083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_18
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab8ae3dc4cf9dd80800000000000000
+      internalID: -8225265837512422481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_19
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1a54fbeba187570800000000000000
+      internalID: 8464544906197967319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_20
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb1073339feccc80800000000000000
+      internalID: -8300996597648450577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_21
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a012a43c3e4e2a810800000000000000
+      internalID: 1775232870022521098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_22
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9b15e7d5fce4190800000000000000
+      internalID: -7976209889568376353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_23
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbce42f1143be4290800000000000000
+      internalID: -7904183203711882052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_24
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bf2cc7bc8330b70800000000000000
+      internalID: 8863990938217937821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_25
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd9c14a8076551d0800000000000000
+      internalID: -3362668259951469127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108cf96b8cce3e8d0800000000000000
+      internalID: -2818148595002259455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7653b5800a99e1950800000000000000
+      internalID: 6421739031290918247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed17b169efabf78e0800000000000000
+      internalID: -1693429332265176610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c2c4bac49c106f0800000000000000
+      internalID: -720073134273975261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_30
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fb14f5fa163a310800000000000000
+      internalID: 1415082113769783076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_31
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd0a8aad1b337f30800000000000000
+      internalID: 4572063045312449989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_32
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c482991f651ae00800000000000000
+      internalID: 1054219383438068868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_33
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c498a2153d620a340800000000000000
+      internalID: 4872937485856573772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_34
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d1e3af8310e04a0800000000000000
+      internalID: -6625356657587249838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_35
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1673ca58a38991a0800000000000000
+      internalID: -6802261003065919969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_36
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873e8e463fc454560800000000000000
+      internalID: 7297323379477504888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_37
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ca96f0f28b955e0800000000000000
+      internalID: -1920301253835248569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_38
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2b5d842a99e5820800000000000000
+      internalID: 2908931331613635302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a43cfb4db3204d60800000000000000
+      internalID: 7872331444574237860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_40
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3346a7046e76e4b70800000000000000
+      internalID: 8885153353470469171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_41
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16fbddfe7be365a0800000000000000
+      internalID: -6529116104099629541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_42
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0e386a3493ba3e0800000000000000
+      internalID: -2041475043363135257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_43
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa70da48335c1620800000000000000
+      internalID: 2746161374027610868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_44
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a39cbbb8e78d250800000000000000
+      internalID: 5969660444695673501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_45
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e5109ec9c2c0be0800000000000000
+      internalID: -1509782722640257494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_46
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673384171d55f2270800000000000000
+      internalID: 8227889402266268534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_47
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e551b81a3aa53ede0800000000000000
+      internalID: -1305099808170896034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_48
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae05ff9b9bb19940800000000000000
+      internalID: 5301224513469746853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_49
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57bdf7496898fac0800000000000000
+      internalID: -3821136705877067939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_50
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1956653915328d0800000000000000
+      internalID: -2872362444080705088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_51
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5ffb5af6bf13790800000000000000
+      internalID: -7551978643182848513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c8b66cc7b8e32d0800000000000000
+      internalID: -3297044509167481699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e36111820dedc8c0800000000000000
+      internalID: -3977262300887161887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_54
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e838d9d05e03580800000000000000
+      internalID: -8849321421143044537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_55
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85aae43e28cab490800000000000000
+      internalID: -7729645709646191222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_56
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366c33f9ce29d5a30800000000000000
+      internalID: 4205679172014818915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_57
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b75c7c8d2dd8250800000000000000
+      internalID: 5948642511332670238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_58
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb7b490c1129f0b0800000000000000
+      internalID: -5694483849534538777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_H2H_WalkForward_59
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712ca259980aecd10800000000000000
+      internalID: 2147830585075876375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2d76a7ee6d8adf5408d9869f5b31c8e1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kocayusuf_H2H_WalkForward_0: -563918479562316055
+      kocayusuf_H2H_WalkForward_1: 4130419868137562065
+      kocayusuf_H2H_WalkForward_10: -5890610250440766341
+      kocayusuf_H2H_WalkForward_11: -551916123829190024
+      kocayusuf_H2H_WalkForward_12: 5786333370410681525
+      kocayusuf_H2H_WalkForward_13: 2882287367187859216
+      kocayusuf_H2H_WalkForward_14: 4118908698459103197
+      kocayusuf_H2H_WalkForward_15: -2170896367656529826
+      kocayusuf_H2H_WalkForward_16: -1108627731806191265
+      kocayusuf_H2H_WalkForward_17: -6377519937053282083
+      kocayusuf_H2H_WalkForward_18: -8225265837512422481
+      kocayusuf_H2H_WalkForward_19: 8464544906197967319
+      kocayusuf_H2H_WalkForward_2: 7912864240252821525
+      kocayusuf_H2H_WalkForward_20: -8300996597648450577
+      kocayusuf_H2H_WalkForward_21: 1775232870022521098
+      kocayusuf_H2H_WalkForward_22: -7976209889568376353
+      kocayusuf_H2H_WalkForward_23: -7904183203711882052
+      kocayusuf_H2H_WalkForward_24: 8863990938217937821
+      kocayusuf_H2H_WalkForward_25: -3362668259951469127
+      kocayusuf_H2H_WalkForward_26: -2818148595002259455
+      kocayusuf_H2H_WalkForward_27: 6421739031290918247
+      kocayusuf_H2H_WalkForward_28: -1693429332265176610
+      kocayusuf_H2H_WalkForward_29: -720073134273975261
+      kocayusuf_H2H_WalkForward_3: 8961593027683748700
+      kocayusuf_H2H_WalkForward_30: 1415082113769783076
+      kocayusuf_H2H_WalkForward_31: 4572063045312449989
+      kocayusuf_H2H_WalkForward_32: 1054219383438068868
+      kocayusuf_H2H_WalkForward_33: 4872937485856573772
+      kocayusuf_H2H_WalkForward_34: -6625356657587249838
+      kocayusuf_H2H_WalkForward_35: -6802261003065919969
+      kocayusuf_H2H_WalkForward_36: 7297323379477504888
+      kocayusuf_H2H_WalkForward_37: -1920301253835248569
+      kocayusuf_H2H_WalkForward_38: 2908931331613635302
+      kocayusuf_H2H_WalkForward_39: 7872331444574237860
+      kocayusuf_H2H_WalkForward_4: 87241733379216119
+      kocayusuf_H2H_WalkForward_40: 8885153353470469171
+      kocayusuf_H2H_WalkForward_41: -6529116104099629541
+      kocayusuf_H2H_WalkForward_42: -2041475043363135257
+      kocayusuf_H2H_WalkForward_43: 2746161374027610868
+      kocayusuf_H2H_WalkForward_44: 5969660444695673501
+      kocayusuf_H2H_WalkForward_45: -1509782722640257494
+      kocayusuf_H2H_WalkForward_46: 8227889402266268534
+      kocayusuf_H2H_WalkForward_47: -1305099808170896034
+      kocayusuf_H2H_WalkForward_48: 5301224513469746853
+      kocayusuf_H2H_WalkForward_49: -3821136705877067939
+      kocayusuf_H2H_WalkForward_5: -669974750218152288
+      kocayusuf_H2H_WalkForward_50: -2872362444080705088
+      kocayusuf_H2H_WalkForward_51: -7551978643182848513
+      kocayusuf_H2H_WalkForward_52: -3297044509167481699
+      kocayusuf_H2H_WalkForward_53: -3977262300887161887
+      kocayusuf_H2H_WalkForward_54: -8849321421143044537
+      kocayusuf_H2H_WalkForward_55: -7729645709646191222
+      kocayusuf_H2H_WalkForward_56: 4205679172014818915
+      kocayusuf_H2H_WalkForward_57: 5948642511332670238
+      kocayusuf_H2H_WalkForward_58: -5694483849534538777
+      kocayusuf_H2H_WalkForward_59: 2147830585075876375
+      kocayusuf_H2H_WalkForward_6: 7738401829415353604
+      kocayusuf_H2H_WalkForward_7: -6723416428791970260
+      kocayusuf_H2H_WalkForward_8: 7429995436027810000
+      kocayusuf_H2H_WalkForward_9: -166692027775016199
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

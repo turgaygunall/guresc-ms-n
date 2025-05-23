@@ -1,0 +1,1153 @@
+fileFormatVersion: 2
+guid: c2421af4447587f428c619610b8cb3d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2968322124696217874
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_0
+  - first:
+      213: -8781938309754875047
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_1
+  - first:
+      213: -439809004139590852
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_2
+  - first:
+      213: -998045877494932328
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_3
+  - first:
+      213: 3607708133073837968
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_4
+  - first:
+      213: 5470160307374583101
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_5
+  - first:
+      213: -2125123447915145221
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_6
+  - first:
+      213: 8732814648837267070
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_7
+  - first:
+      213: 6529851340027419107
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_8
+  - first:
+      213: -901596618647165504
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_9
+  - first:
+      213: 4874615500843186937
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_10
+  - first:
+      213: -2390525968273411098
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_11
+  - first:
+      213: 2507048634915795237
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_12
+  - first:
+      213: -8131319919387665267
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_13
+  - first:
+      213: 8621712352086335179
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_14
+  - first:
+      213: -2820960568999805579
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_15
+  - first:
+      213: 2384039029150240287
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_16
+  - first:
+      213: -541934640449604808
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_17
+  - first:
+      213: -6172089847488536921
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_18
+  - first:
+      213: -7245134889624318575
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_19
+  - first:
+      213: 3764447016369108892
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_20
+  - first:
+      213: 5010996377756839257
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_21
+  - first:
+      213: 8655056471581291519
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_22
+  - first:
+      213: 3502869465747320070
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_23
+  - first:
+      213: 1171036774408791824
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_24
+  - first:
+      213: 3787194641980036684
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_25
+  - first:
+      213: -4415839495669976070
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_26
+  - first:
+      213: 9213245126437781598
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_27
+  - first:
+      213: 8483855684887009935
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_28
+  - first:
+      213: -3301151440198366307
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_29
+  - first:
+      213: 4819552820265327955
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_30
+  - first:
+      213: -4644571036620543494
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_31
+  - first:
+      213: 6770856485276198154
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_32
+  - first:
+      213: 8334412753502750844
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_33
+  - first:
+      213: -1021273948666632042
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_34
+  - first:
+      213: 1556554904045597364
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_35
+  - first:
+      213: -6232485629109725079
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_36
+  - first:
+      213: 6640916522013097752
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_37
+  - first:
+      213: 3179482030700277393
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_38
+  - first:
+      213: -8938652127325546818
+    second: kocayusuf_testkaraktergures1_H2H_Dodge_Back_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219637dde39913920800000000000000
+      internalID: 2968322124696217874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9539aafc2a9402680800000000000000
+      internalID: -8781938309754875047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bcd3b7a0c75e9f0800000000000000
+      internalID: -439809004139590852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c1f52ff8a3622f0800000000000000
+      internalID: -998045877494932328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f572dbe67211230800000000000000
+      internalID: 3607708133073837968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3de08141d9e9eb40800000000000000
+      internalID: 5470160307374583101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_6
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf71a27cb7b0282e0800000000000000
+      internalID: -2125123447915145221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_7
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ed54997a0313970800000000000000
+      internalID: 8732814648837267070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_8
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e951767231be9a50800000000000000
+      internalID: 6529851340027419107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_9
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5a7d6f6a2ec73f0800000000000000
+      internalID: -901596618647165504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_10
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fafe50a8fc16a340800000000000000
+      internalID: 4874615500843186937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_11
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e377b22c4523ded0800000000000000
+      internalID: -2390525968273411098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_12
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521b8c65373dac220800000000000000
+      internalID: 2507048634915795237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c17d96d9fb72f80800000000000000
+      internalID: -8131319919387665267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce14b554b976a770800000000000000
+      internalID: 8621712352086335179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57df16ffe4fe9d8d0800000000000000
+      internalID: -2820960568999805579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_16
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1eca27addec51120800000000000000
+      internalID: 2384039029150240287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833b588d059aa78f0800000000000000
+      internalID: -541934640449604808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_18
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae96ae1cf4585aa0800000000000000
+      internalID: -6172089847488536921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_19
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d472a443c147b90800000000000000
+      internalID: -7245134889624318575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_20
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97b572dd900e3430800000000000000
+      internalID: 3764447016369108892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_21
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d27faf7a2aa8540800000000000000
+      internalID: 5010996377756839257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_22
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff37c832100fc1870800000000000000
+      internalID: 8655056471581291519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_23
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d6e685831bc9030800000000000000
+      internalID: 3502869465747320070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_24
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0172e8dedbb504010800000000000000
+      internalID: 1171036774408791824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_25
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c469b722671de8430800000000000000
+      internalID: 3787194641980036684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af37373ff59c7b2c0800000000000000
+      internalID: -4415839495669976070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e504cede0a50cdf70800000000000000
+      internalID: 9213245126437781598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a5e57cbc5bcb570800000000000000
+      internalID: 8483855684887009935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b05316144ff22d0800000000000000
+      internalID: -3301151440198366307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_30
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d952441cd72e240800000000000000
+      internalID: 4819552820265327955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_31
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af92a2c004b2b8fb0800000000000000
+      internalID: -4644571036620543494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_32
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05a90e891ae6fd50800000000000000
+      internalID: 6770856485276198154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_33
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c784400ed38c9a370800000000000000
+      internalID: 8334412753502750844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_34
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6986d5f21c4b3d1f0800000000000000
+      internalID: -1021273948666632042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_35
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2b701307ef99510800000000000000
+      internalID: 1556554904045597364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_36
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96810396753c189a0800000000000000
+      internalID: -6232485629109725079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_37
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ffc954466492c50800000000000000
+      internalID: 6640916522013097752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_38
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ea0a1bf0acf1c20800000000000000
+      internalID: 3179482030700277393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kocayusuf_testkaraktergures1_H2H_Dodge_Back_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb698fbcf3783f380800000000000000
+      internalID: -8938652127325546818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6418b4098f4a2744f82290a2a3e4a82d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_0: 2968322124696217874
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_1: -8781938309754875047
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_10: 4874615500843186937
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_11: -2390525968273411098
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_12: 2507048634915795237
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_13: -8131319919387665267
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_14: 8621712352086335179
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_15: -2820960568999805579
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_16: 2384039029150240287
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_17: -541934640449604808
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_18: -6172089847488536921
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_19: -7245134889624318575
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_2: -439809004139590852
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_20: 3764447016369108892
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_21: 5010996377756839257
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_22: 8655056471581291519
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_23: 3502869465747320070
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_24: 1171036774408791824
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_25: 3787194641980036684
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_26: -4415839495669976070
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_27: 9213245126437781598
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_28: 8483855684887009935
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_29: -3301151440198366307
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_3: -998045877494932328
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_30: 4819552820265327955
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_31: -4644571036620543494
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_32: 6770856485276198154
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_33: 8334412753502750844
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_34: -1021273948666632042
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_35: 1556554904045597364
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_36: -6232485629109725079
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_37: 6640916522013097752
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_38: 3179482030700277393
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_39: -8938652127325546818
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_4: 3607708133073837968
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_5: 5470160307374583101
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_6: -2125123447915145221
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_7: 8732814648837267070
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_8: 6529851340027419107
+      kocayusuf_testkaraktergures1_H2H_Dodge_Back_9: -901596618647165504
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
